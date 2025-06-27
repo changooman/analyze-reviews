@@ -2,5 +2,5 @@ accelerate==0.28.0
 eval-type-backport==0.2.2
 evaluate==0.4.4
 scikit-learn==1.7.0
-torchaudio==2.7.1+cu118
 transformers==4.38.0
+datasets==3.6.0
